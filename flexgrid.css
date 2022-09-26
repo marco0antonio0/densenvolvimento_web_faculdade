@@ -1,0 +1,103 @@
+.b{
+    display: flex;
+    flex-direction: column;
+}
+.b1{
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+    background-image: url('/assets/background.png');
+}
+.b1 #p1 {
+    width: 30%;
+}
+.b1 #p2 {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: auto auto auto auto;
+    align-items: center;
+}
+.b1 #p3{
+    width: 20%;
+}
+
+.b1 #p1 img{
+    margin: auto auto auto 50px;
+    height: auto;
+    width: 350px;
+}
+
+.b2{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    background-color: rgba(181, 157, 252, 1);
+}
+.b2 #p1{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.b2 #p1 h1{
+    margin: auto auto 0 100px;
+    font-size: 35px;
+    color: white;
+}
+.b2 #p1 p{
+    font-size: 25px;
+    color: white;
+    max-width:550px ;
+    margin: auto auto auto auto;
+}
+.b2 #p1 div{
+    align-items: center;
+    margin: 0 0 auto 60px;
+}
+
+.b2 #p2{
+    width: 50%;
+    align-items: center;
+    margin: auto;
+}
+.b2 #p2 img{
+    height: auto;
+    width: 600px;
+}
+.b3 #m{
+    width: 10%;
+}
+.b3{
+    display: flex;
+    flex-direction: row;
+    height: 350px;
+}
+.b3 #p1{
+    width: 40%;
+    margin: auto;
+}
+.b3 #p1 img{
+    max-height: 300px;
+    width: auto;
+}
+.b3 #p2{
+    width: 50%;
+    background-color: rebeccapurple;
+    margin-right: 5px;
+}
+.b3 #p2 #p1{
+    display: flex;
+    flex-direction: row;
+    height: 33.3%;
+    margin: auto;
+    align-items: center;
+}
+.b3 #p2 #p1 img{
+    height: 80px;
+    margin: auto auto auto auto;
+}
+.b3 #p2 #p1 span{
+    margin: auto;
+    color: rgba(4, 95, 203, 1);
+    font-size: 20px;
+}
