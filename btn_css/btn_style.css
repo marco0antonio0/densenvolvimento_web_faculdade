@@ -1,0 +1,89 @@
+.btn_topo {
+    filter: drop-shadow(0px 10px 4px rgba(0, 0, 0, 0.05));
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 40px;
+    background-color: rgba(91, 157, 255, 0.473);
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn_topo img {
+    height: 40px;
+    margin: auto auto auto 10px;
+}
+
+.btn_topo span {
+    margin: auto auto auto -10px;
+    font-weight: 500;
+}
+
+.btn_solicitar_servico {
+    text-decoration: none;
+    filter: drop-shadow(0px 10px 4px rgba(0, 0, 0, 0.25));
+    margin: auto auto auto auto;
+    width: 340px;
+    height: 80px;
+    border: none;
+    border-radius: 60px;
+    background-color: rgba(42, 168, 26, 0.5);
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+
+.btn_solicitar_servico span {
+    margin: auto 30px auto auto;
+    font-size: 20px;
+    color: white;
+}
+
+.btn_solicitar_servico img {
+    margin: auto -3.5px 0 0;
+    height: auto;
+    width: 80px;
+}
+
+.btn_go {
+    text-decoration: none;
+    filter: drop-shadow(0px 10px 4px rgba(0, 0, 0, 0.25));
+    margin: auto auto auto auto;
+    width: 200px;
+    height: 70px;
+    border: none;
+    border-radius: 20px 0;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    background-color: rgba(111, 215, 163, 1);
+}
+
+.btn_go h2 {
+    margin: auto;
+    color: white;
+}
+
+#div_btn {
+    margin: auto 0 auto auto;
+    display: flex;
+    flex-direction: row;
+}
+
+#div_btn .btn_go {
+    width: 300px;
+}
+
+#div_btn span {
+    color: white;
+    font-size: 20px;
+    margin: auto;
+}
