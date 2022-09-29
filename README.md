@@ -1,11 +1,11 @@
-# Desenvovlimento web
+# Desenvolvimento web
 
 ## Ferramentas
 
 - vscode
+- canva
 - figma
-- html
-- css
+- html,css
 
 ## Codigo
 
@@ -19,9 +19,6 @@
 
 ![img](/assets%20readme/Serviço.png)
 
-#
 ## 🚧 Pessoas desenvolvendo 🚧
 
 - marco antonio
-
-#
