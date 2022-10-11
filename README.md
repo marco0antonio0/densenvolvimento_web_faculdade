@@ -1,11 +1,14 @@
-# Desenvolvimento web 🌐
+# Estudo ao Desenvolvimento web 🌐
 ### Dados: Pagina web conceitual elaborada para estudo dos componentes css e html e seu uso tecnico
 
+
 #
-### Proposta de estudo 
+## Proposta de estudo 
+#### Elaborar design web,realizar o desenvolvimento da pagina e documentar
+### Detalhes e conceito da pagina elaborada: 
 - Serviços: suporte tecnico,design de sites,performa sites 
-- Pagina-home :A pagina informar os serviços e detalhes simplificados,  botões inicio,serviço,contato atravez do whatsapp
-- Pagina-serviços :A pagina informar os serviços e detalhes mais amplos,contato atravez do whatsapp
+    - Pagina-home :A pagina informar os serviços e detalhes simplificados,  botões inicio,serviço,contato atravez do whatsapp
+    - Pagina-serviços :A pagina informar os serviços e detalhes mais amplos,contato atravez do whatsapp
 #
 ## Principais Cores usadas 🎨
 ![img](/assets%20readme/palheta%20de%20cores.png)
@@ -13,12 +16,20 @@
 #   
 ## Ferramentas 🛠️
 
-- vscode
-- canva
-- whimsical
-- figma
-- html,css
-- git
+- Design
+    - figma
+    - canva
+-   Progamação
+    - vscode
+    - html,css
+    - git
+-   Fluxograma / mapa
+    - whimsical
+
+-   imagens usadas
+    -   canva pro ( https://www.canva.com/ )
+    -   figma ( https://www.figma.com/ )
+    -   FlatIcon( https://www.flaticon.com/br/ )
 #   
 ## Codigo 🖥️
 
@@ -40,7 +51,7 @@
 #
 #
 ## 🚧 Pessoas desenvolvendo 🚧
-- marco antonio
+- Marco Antonio da Silva Mesquita
 #
 
 
