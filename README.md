@@ -2,7 +2,7 @@
 ### Dados: Pagina web conceitual elaborada para estudo dos componentes css e html e seu uso tecnico
 
 #
-### Dados proposta - estudo 
+### Proposta de estudo 
 - Serviços: suporte tecnico,design de sites,performa sites 
 - Pagina-home :A pagina informar os serviços e detalhes simplificados,  botões inicio,serviço,contato atravez do whatsapp
 - Pagina-serviços :A pagina informar os serviços e detalhes mais amplos,contato atravez do whatsapp
@@ -18,10 +18,11 @@
 - whimsical
 - figma
 - html,css
+- git
 #   
 ## Codigo 🖥️
 
-## 🚧 Em desenvolvimento 🚧
+##  Desenvolvido 👍 
 #
 ## Pagina conceitual figma( home )
 
