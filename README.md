@@ -1,10 +1,11 @@
 # Desenvolvimento web 🌐
-### Pagina web conceitual elaborada para estudo dos componentes css e html e seu uso tecnico
+### Dados: Pagina web conceitual elaborada para estudo dos componentes css e html e seu uso tecnico
 
-####
-
-
-### Serviços: suporte tecnico,design de sites,performa sites pagina-home :A pagina informar os serviços e detalhes simplificados,  botões inicio,serviço,contato atravez do whatsapp
+#
+### Dados proposta
+- Serviços: suporte tecnico,design de sites,performa sites 
+- Pagina-home :A pagina informar os serviços e detalhes simplificados,  botões inicio,serviço,contato atravez do whatsapp
+- Pagina-serviços :A pagina informar os serviços e detalhes mais amplos,contato atravez do whatsapp
 #
 ## Principais Cores usadas 🎨
 ![img](/assets%20readme/palheta%20de%20cores.png)
